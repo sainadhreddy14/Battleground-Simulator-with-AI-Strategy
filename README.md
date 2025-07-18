@@ -256,32 +256,44 @@ Below are example screenshots and visualizations from the Battleground Simulator
 
 ### 1. Main Menu
 
-![Main Menu](images/main_menu.png)
+![Main Menu]
+<img width="395" height="240" alt="Screenshot 2025-07-18 101122" src="https://github.com/user-attachments/assets/0a7c6ffc-7cc7-463f-9596-5718ff212b54" />
+
 *The main menu provides access to all core features: running battles, training, retraining models, viewing statistics, and batch testing.*
 
 ### 2. Battle Replay (Step-by-Step)
 
-![Battle Replay](images/battle_replay.png)
+![Battle Replay]
+<img width="1001" height="661" alt="Screenshot 2025-07-18 101003" src="https://github.com/user-attachments/assets/c0f7a21b-892b-462e-bf81-f6dd4f3ac3a2" />
+
 *Step-by-step visualization of a battle in progress, showing unit positions, health bars, and current turn/phase. Press 'S' to skip to the end.*
 
 ### 3. Battle Aftermath (Winner: HOME)
 
-![Battle Aftermath Home](images/battle_aftermath_home.png)
+![Battle Aftermath Home]
+<img width="990" height="671" alt="Screenshot 2025-07-18 101912" src="https://github.com/user-attachments/assets/2eeaac22-5141-4709-a297-5d0d511b4646" />
+
 *Battle aftermath screen showing the winner (HOME), remaining health, and final unit positions.*
 
 ### 4. Battle Aftermath (Winner: ENEMY)
 
-![Battle Aftermath Enemy](images/battle_aftermath_enemy.png)
+![Battle Aftermath Enemy]
+<img width="1011" height="663" alt="Screenshot 2025-07-18 102107" src="https://github.com/user-attachments/assets/8eac6a94-319c-498d-85c6-42d6c9c9d09c" />
+
 *Battle aftermath screen showing the winner (ENEMY), remaining health, and final unit positions.*
 
 ### 5. Formation Effectiveness Visualization
 
-![Formation Effectiveness](images/formation_effectiveness.png)
+![Formation Effectiveness]
+<img width="1920" height="1080" alt="Screenshot 2025-07-18 101304" src="https://github.com/user-attachments/assets/fe8e6df6-94ce-4ad6-abf0-5a7d9a176a86" />
+
 *Bar charts comparing win rates for different formation types for both HOME and ENEMY sides.*
 
 ### 6. Win Rate and Health Difference Trends
 
-![Win Rate Trends](images/win_rate_trends.png)
+![Win Rate Trends]
+<img width="1920" height="1080" alt="Screenshot 2025-07-18 101159" src="https://github.com/user-attachments/assets/dbe0cd49-d594-48e5-9c01-6fe4354b4fa2" />
+
 *Line plots showing moving average win rates and health differences over time, useful for tracking AI improvement.*
 
 ---
