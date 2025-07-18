@@ -257,6 +257,7 @@ Below are example screenshots and visualizations from the Battleground Simulator
 ### 1. Main Menu
 
 ![Main Menu]
+
 <img width="395" height="240" alt="Screenshot 2025-07-18 101122" src="https://github.com/user-attachments/assets/0a7c6ffc-7cc7-463f-9596-5718ff212b54" />
 
 *The main menu provides access to all core features: running battles, training, retraining models, viewing statistics, and batch testing.*
